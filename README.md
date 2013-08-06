@@ -14,11 +14,9 @@ In 0.48.2
   - Change default language to Japanese(though it should be set to user selected language).
 
 
-If you have any question. Please contact me. y-itou __at__ lumber-mill.co.jp
+If you have any questions. Please contact me. y-itou __at__ lumber-mill.co.jp
 
 
-大雑把な日本語訳
-================
 MacOSX版Inkscapeにパッチを適用するプログラムです。
 Inkscapeはパワフルで優れたドローツールです。上記のURL(inkscape.org)からインストーラを入手できます。
 しかし、実際に動かして見ると幾つかの問題点がありますので、このパッチでそれらを修正します。
